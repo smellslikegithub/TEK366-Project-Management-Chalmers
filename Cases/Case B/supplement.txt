@@ -1,0 +1,7 @@
+1. Projetc information set start day and current date.
+2. Put in tasks
+3. Group them if necessary
+4. Duration of tasks
+5. Resource sheet
+
+work = Days * Units (hours)
